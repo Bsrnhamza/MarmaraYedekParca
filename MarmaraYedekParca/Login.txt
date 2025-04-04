@@ -1,0 +1,4 @@
+Marmara Yedek 
+admin@admin.com
+123
+Database Name = MarmaraData
